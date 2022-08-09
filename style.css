@@ -1,0 +1,55 @@
+        body{ background-color:white;
+           
+          border: 1px solid black;
+        } 
+          h1{
+              border: width 1px;
+              border-style: solid;
+              border-color: black;
+             
+          
+        }
+        th, td {
+      border: 1px solid black;
+    }
+
+    b{
+      font-size: 12px;
+    }
+
+    table,
+    th,
+    td {
+      border-collapse: collapse;
+    }
+
+    .title-adjust {
+      color:white;
+      background-color: black;
+      border-style: solid;
+    }
+
+    h2 {
+      border: width 1px;
+      border-style: solid;
+      border-color: black;
+      text-align: center;
+      color:white;
+      background-color: black;
+    }
+
+    .light-border {
+      border-style: solid;
+      border-width: 0.5px;}
+
+      .container {
+      min-height: 100px;
+      width: 50%;
+      display: grid;
+      grid-template-rows: 30px 30px 30px 30px 30px 30px ;
+      grid-template-columns: 30px 30px 30px 30px 30px 30px ;
+      
+      }
+      
+
+      
